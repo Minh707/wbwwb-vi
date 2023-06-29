@@ -94,7 +94,7 @@ var textStrings_EN = {
 	"toBeContinued": "(to be continued!)",
 
 	// (quote0002.png)
-	"WBWWB": "Chúng ta trở thành những gì chúng ta thấy.",
+	"WBWWB": "Chúng ta trở thành \nnhững gì chúng ta thấy.",
 	"WSOTATOTSU": "Chúng tôi định hình các công cụ của chúng tôi và sau đó các công cụ của chúng tôi định hình chúng tôi.",
 
 	// (quote0003.png)
